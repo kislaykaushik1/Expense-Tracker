@@ -1,3 +1,33 @@
+This is an expense tracker application built using React hooks and other modern features.
+
+The application allows users to keep track of their expenses by adding and removing transactions. Users can also view their overall balance, income and expenses in a simple, user-friendly interface.
+
+
+**Features**
+Add new transactions with amount, description and transaction type (income or expense)
+View overall balance, income and expenses
+Transactions are persisted in local storage, so data is not lost on refresh
+
+**Tech Stack**
+React (hooks, functional components)
+CSS
+Local storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

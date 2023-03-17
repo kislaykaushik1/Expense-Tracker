@@ -1,0 +1,11 @@
+.trans {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  justify-items: center;
+  align-items: center;
+  font-size: large;
+}
+label {
+  font-size: large;
+}
